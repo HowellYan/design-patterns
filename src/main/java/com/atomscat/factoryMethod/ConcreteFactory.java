@@ -1,5 +1,8 @@
 package com.atomscat.factoryMethod;
 
+/**
+ * 具体工厂类
+ */
 public class ConcreteFactory extends IAnimalFactory {
     public IAnimal GetAnimalType(String type) throws Exception {
         switch (type) {
