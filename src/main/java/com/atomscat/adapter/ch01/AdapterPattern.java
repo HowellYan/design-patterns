@@ -1,4 +1,4 @@
-package com.atomscat.adapter;
+package com.atomscat.adapter.ch01;
 
 public class AdapterPattern {
     public static void main(String[] args) {
