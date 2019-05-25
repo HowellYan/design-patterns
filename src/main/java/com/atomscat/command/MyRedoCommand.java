@@ -1,5 +1,8 @@
 package com.atomscat.command;
 
+/**
+ * 命令
+ */
 public class MyRedoCommand implements ICommand {
     private Receiver receiver;
 

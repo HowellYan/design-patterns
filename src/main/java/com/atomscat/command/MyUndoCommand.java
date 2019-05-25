@@ -1,5 +1,8 @@
 package com.atomscat.command;
 
+/**
+ * 命令
+ */
 public class MyUndoCommand implements ICommand {
     private Receiver receiver;
 
