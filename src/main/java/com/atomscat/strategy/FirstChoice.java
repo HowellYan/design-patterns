@@ -1,5 +1,8 @@
 package com.atomscat.strategy;
 
+/**
+ * 选择1：实现接口类
+ */
 public class FirstChoice implements IChoice {
     public void myChoice(String s1, String s2) {
         System.out.println("You wanted to add the numbers.");

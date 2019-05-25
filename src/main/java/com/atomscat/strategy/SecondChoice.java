@@ -1,5 +1,8 @@
 package com.atomscat.strategy;
 
+/**
+ * 选择2：实现接口类
+ */
 public class SecondChoice implements IChoice {
     public void myChoice(String s1, String s2) {
         System.out.println("You wanted to concatenate the numbers.");
