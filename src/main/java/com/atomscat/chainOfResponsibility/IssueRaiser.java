@@ -1,5 +1,8 @@
 package com.atomscat.chainOfResponsibility;
 
+/**
+ * 发布
+ */
 public class IssueRaiser {
     public IReceiver setFirstReceiver;
 
