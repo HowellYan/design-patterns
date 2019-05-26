@@ -1,4 +1,4 @@
-package com.atomscat.flyweight;
+package com.atomscat.flyweight.ch01;
 
 import java.util.HashMap;
 import java.util.Map;

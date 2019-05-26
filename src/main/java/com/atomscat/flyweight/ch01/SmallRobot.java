@@ -1,4 +1,4 @@
-package com.atomscat.flyweight;
+package com.atomscat.flyweight.ch01;
 
 public class SmallRobot implements IRobot {
     @Override
