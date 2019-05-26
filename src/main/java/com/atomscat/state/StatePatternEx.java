@@ -10,5 +10,10 @@ public class StatePatternEx {
         tv.pressButton();
         //Second time press
         tv.pressButton();
+        
+        tv.pressButton();
+
+        tv.pressButton();
+
     }
 }
